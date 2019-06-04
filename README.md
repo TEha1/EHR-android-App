@@ -1,4 +1,4 @@
-# EHR_App
+# EHR-android-App
 
 (The android application of EHR system) Link: http://abdullahmk96.pythonanywhere.com/
 
